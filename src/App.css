@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+  .justify_content_space_between{
+display: flex;
+justify-content: space-between;
+margin: 5px 120px;
+/* margin-top: 50px; */
+  }
+  .p-1{
+    padding: 15px;
+  }
+  .m-1{
+    margin: 10px;
+  }
+  .btn{
+    /* background-color: aqua; */
+    /* color: black; */
+    /* border-radius: 5%; */
+    padding: 10px;
+  }
+  .delete{
+    /* background-color: rgb(66, 193, 213); */
+    color: red;
+  }
